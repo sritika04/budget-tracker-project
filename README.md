@@ -1,7 +1,6 @@
-# budget-tracker-project - Data Analytics Project
+# Personal-Budget-Analysis-Dashboard - Data Analytics Project
 
-A beginner data analytics practice project built to learn
-Python, Excel and Power BI together in one complete workflow.
+Analyzed personal expense data to track spending patterns, identify high-expense categories, and build interactive dashboards for financial insights and better financial decision-making.
 
 ## Tools Used
 
@@ -11,7 +10,8 @@ Python, Excel and Power BI together in one complete workflow.
 
 ## About the Dataset
 
-This is a fictional sample dataset created using Python.
+Simulated personal expense dataset created to reflect real-world spending patterns.  
+Designed for analysis and dashboard development
 It contains 120 expense transactions across 12 months with 7 categories:
 
 - Rent
@@ -65,5 +65,3 @@ excel_screenshot.png Excel dashboard screenshot
 - Building interactive dashboards in Power BI
 - Connecting tools together in a real workflow
 - Uploading a project to GitHub
-
-*Built as a beginner practice project to learn data analytics tools*
